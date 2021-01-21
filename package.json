@@ -1,0 +1,23 @@
+{
+  "name": "key-keper",
+  "version": "0.0.2",
+  "description": "Password Keeper",
+  "bin": "password.js",
+  "pkg": {
+    "assets": ["node_modules/**/*", "src/**/*"],
+    "targets": ["node12-macos-x64", "node12-win-x64" ]
+  },
+  "scripts": {
+    "start": "node password.js",
+    "test": "nodemon password.js"
+  },
+  "author": "lbarcl",
+  "license": "ISC",
+  "dependencies": {
+    "edit-json-file": "^1.5.0",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

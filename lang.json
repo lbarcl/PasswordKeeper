@@ -1,0 +1,82 @@
+{
+  "sellected": "english",
+  "languages": ["english", "turkish"],
+  "translations": {
+    "WHAT_WOULD_LİKE_TO_DO": {
+      "english": "What would like to do? ",
+      "turkish": "Ne yapmak istersiniz? "
+    },
+    "APP_OR_WEB_NAME": {
+      "english": "Name of the website/app: ",
+      "turkish": "Site/uygulama ismi: "
+    },
+    "USERNAME": {
+      "english": "Username: ",
+      "turkish": "Kullanıcı adı: "
+    },
+    "PASWORD": {
+      "english": "Pasword: ",
+      "turkish": "Şifre: "
+    },
+    "IS_İNFO_TRUE": {
+      "english": "Is this info true [y/n] ",
+      "turkish": "Bu bilgi doğru mu [e/h] "
+    },
+    "WRONG_INFO": {
+      "english": "Information you have entered is wrong!",
+      "turkish": "Girdiğiniz bilgiler doğru değil!"
+    },
+    "WHAT_WOULD_LİKE_TO_DO": {
+      "english": "What would like to do? ",
+      "turkish": "Ne yapmak istersiniz? "
+    },
+    "INFO_ABOUT_THIS_SITE": {
+      "english": "information for this website/app",
+      "turkish": "bu site/uygulama hakkında bilgi"
+    },
+    "USED_USERNAME": {
+      "english": "Username that you use: ",
+      "turkish": "Kullandığınız kullanıcı adı: "
+    },
+    "USED_PASWORD": {
+      "english": "Pasword that you use: ",
+      "turkish": "Kullandığınız şifre: "
+    },
+    "CANT_FIND": {
+      "english": "We can't find a website/app named this ",
+      "turkish": "Bu isme sahip bir site/uygulama bulunamadı "
+    },
+    "CANT_FIND_TWO": {
+      "english": "Please control information that you gave us and try again",
+      "turkish": "Bize verdiğiniz bilgileri lütfen kontrol edin ve tekrar deneyin"
+    },
+    "REMOVED": {
+      "english": "Website/app has been removed",
+      "turkish": "Site/uygulama kaldırıldı"
+    },
+    "COMMANDS_WE_HAVE": {
+      "english": "Commands we have ",
+      "turkish": "Kullanabileceğiniz komutlar "
+    },
+    "WİCH_COMMAND": {
+      "english": "Wich command info do you want? (leave it blank if you don't want)",
+      "turkish": "Hangi komut hakkında bilgi istersiniz? (eğer istemiyorsanız boş bırakın)"
+    },
+    "ADD_HELP": {
+      "english": "Creates new website/app data, usage of command:",
+      "turkish": "Yeni site/uygulama verisi, komut kullanımı: "
+    },
+    "FİND_HELP": {
+      "english": "Finds data about website/app, usage of command:",
+      "turkish": "Site/uygulama hakkında bilgi verir, komut kullanımı:"
+    },
+    "DELL_HELP": {
+      "english": "Deletes data about website/app, usage of command:",
+      "turkish": "Site/uygulama hakkında veri siler, komut kullanımı:"
+    },
+    "DEFAULT": {
+      "english": "I am sending you to start point",
+      "turkish": "Seni başlangıç noktasına gönderiyorum"
+    }
+  }
+}
